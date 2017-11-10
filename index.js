@@ -15,6 +15,8 @@ function logWhisper(word){
 }
 
 function sayHiToGrandma(phrase){
-  return 
+  if (phrase.toUpperCase() === phrase){
+    return "YES INDEED!"
+  } else {"I can't hear you!"
+  }
 }
-  
