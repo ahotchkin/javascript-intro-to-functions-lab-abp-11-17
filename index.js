@@ -23,4 +23,3 @@ function sayHiToGrandma(phrase){
     return "I can't hear you!"
   }
 }
-
